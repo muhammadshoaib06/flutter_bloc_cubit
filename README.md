@@ -1,16 +1,9 @@
-# flutter_cubit
+# Flutter BloC Cubit Repository Pattern:
 
-A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# The Cubit is a subset of the famous implementation of BLoC Pattern: 
+bloclibrary.dev, 
+it abandons the concept of Events and simplifies the way of emitting states.
+# What’s a Cubit?
+It’s a class that stores an observable state, the observation is powered by Streams but in such a friendly way that it is not necessary to know reactive programming
+Use super() to override the initial state.
