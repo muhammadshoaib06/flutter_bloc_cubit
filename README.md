@@ -1,7 +1,7 @@
 # Flutter BloC Cubit Repository Pattern:
 
 
-# The Cubit is a subset of the famous implementation of BLoC Pattern: 
+The Cubit is a subset of the famous implementation of BLoC Pattern: 
 bloclibrary.dev, 
 it abandons the concept of Events and simplifies the way of emitting states.
 # What’s a Cubit?
